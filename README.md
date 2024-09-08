@@ -12,7 +12,7 @@ estas son algunas de las preguntas mas comunes acerca de la economia
 * ¿QUE ES EL DESEMPLEO Y CUALES SON ALGUNAS DE SUS CAUSAS?
 
 
-##ACERCA DEL PROYECTO
+## ACERCA DEL PROYECTO
 
 <P>
 Este proyecto consiste en la creacion de un sistema que permita mostrar la estadistica de un tema en especifico, en este caso sera la economia.
